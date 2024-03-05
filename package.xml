@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>vicon_mavros_px4</name>
+  <version>1.0.0</version>
+  <description>TODO</description>
+
+  <maintainer email="todo@todo.com">todo</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
